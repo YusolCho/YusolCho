@@ -39,7 +39,7 @@
     <li style="font-weight: 700; font-size: 15px; color: #282d33;">Prompt Engineer at <블잇: GPT 기반 콘텐츠 자동 발행 파이프라인></li>
     <li style="font-weight: 700; font-size: 15px; color: #282d33;">Computer Vision Engineer at <노인 인지기능 향상을 위한 멀티모달 양방향 드로잉 챗봇></li>
 </ul>
-
+ 
 <h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> sub </h4> 
 <ul>
     <li style="font-weight: 700; font-size: 15px; color: #282d33;">ML Engineer at <서울특별시 행복주택 최적 입지 분석></li>
