@@ -34,11 +34,11 @@ Wish to spread beneficial service through AI and ML!!🕊
 - **ML Engineer at <League-of-Legends 챔피언 유형별 승패 요인 분석>**
 
 ## Awards 🏆
-- **여름 SW 캡스톤디자인 <GPT 기반 콘텐츠 자동 발행 파이프라인>(2024.06)(최우수상)**
-- **ChatGPT 활용한 사회제반 문제해결 공모전 금상 <GPT 기반 콘텐츠 자동 발행 파이프라인>(2024.06)(금상)**
-- **미래에셋 빅데이터 페스티벌 <엔터주 주가 위험도 감지 서비스>(2023.10)(최우수상)**
-- **ICT 챌린지 2023 <노인 인지기능 향상을 위한 양방향 멀티모달 챗봇 개발>(2023.10)(SK텔레콤 대표이사상)**
-- **통계 데이터 분석·활용대회 <서울특별시 행복주택 최적입지 선정>(2022.10)(장려상)**
+- **[여름 SW 캡스톤디자인 <GPT 기반 콘텐츠 자동 발행 파이프라인>(2024.06)(최우수상)](https://github.com/YusolCho/Certificates/blob/main/2024여름SW캡스톤디자인.png)**
+- **[ChatGPT 활용한 사회제반 문제해결 공모전 금상 <GPT 기반 콘텐츠 자동 발행 파이프라인>(2024.06)(금상)](https://github.com/YusolCho/Certificates/blob/main/2024%20ChatGPT%20활용한%20사회제반%20문제해결%20_%20인문사회성과%20EXPO.png)**
+- **[미래에셋 빅데이터 페스티벌 <엔터주 주가 위험도 감지 서비스>(2023.10)(최우수상)](https://github.com/YusolCho/Certificates/blob/main/2023%20미래에셋증권%20빅데이터%20페스티벌.png)**
+- **[ICT 챌린지 2023 <노인 인지기능 향상을 위한 양방향 멀티모달 챗봇 개발>(2023.10)(SK텔레콤 대표이사상)](https://github.com/YusolCho/Certificates/blob/main/ICT챌린지2023.png)**
+- **[통계 데이터 분석·활용대회 <서울특별시 행복주택 최적입지 선정>(2022.10)(장려상)](https://github.com/YusolCho/Certificates/blob/main/2022통계데이터분석활용대회.png)**
 
 ## Others 💻
 - **(2023.06 ~ 2023.09) Machine Learning Lab 학부연구생**
