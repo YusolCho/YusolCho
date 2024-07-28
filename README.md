@@ -42,8 +42,9 @@
 
 <h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> sub </h4> 
 <ul>
-    <li style="font-weight: 700; font-size: 15px; color: #282d33;">ML Engineer at <League of Legends 챔피언 유형별 승패 요인 분석></li>
     <li style="font-weight: 700; font-size: 15px; color: #282d33;">ML Engineer at <서울특별시 행복주택 최적 입지 분석></li>
+    <li style="font-weight: 700; font-size: 15px; color: #282d33;">ML Engineer ay <League-of-Legends 챔피언 유형별 승패 요인 분석></li>
+        
 </ul>
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Awards 🏆 </h2>  
