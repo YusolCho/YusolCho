@@ -20,7 +20,7 @@ Hi👋 This is Yusol Cho from South Korea 🇰🇷.
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
 </p>
 
-I majored in Data Science Software at Dongguk University.<br>
+I majored in Data Science Software<br>
 Wish to spread beneficial service through AI and ML!!🕊
 
 ## Projects 💡
