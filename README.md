@@ -44,7 +44,7 @@ Wish to spread beneficial service through AI and ML!!🕊
 - **(2023.06 ~ 2023.09) Machine Learning Lab 학부연구생**
 - **(2024.03 ~ Present) 빅데이터 학회 B.a.f 임원**
 - **[(2022.07 ~ 2023.08) 빅데이터 학회 B.a.f 정회원](https://www.dgubaf.com/)**
-- **(2020.03 ~ 2025.02) Dongguk Univ. DataScience SW & Statistics**
+- **(2020.03 ~ 2025.02) Dongguk Univ. DataScience SW & Statistics(4.07/4.5)**
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Contact 📞 </h2> <br> 
 <div style="text-align: left;"> 
