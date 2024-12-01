@@ -30,8 +30,8 @@ Wish to spread beneficial service through AI and ML!!🕊
 - **Computer Vision Engineer at <노인 인지기능 향상을 위한 멀티모달 양방향 드로잉 챗봇>**
 
 ### sub
-- **[RecSys Engineer at <영화 추천시스템 개발>](https://github.com/boostcampaitech7/level2-bookratingprediction-recsys-08)**
-- **[RecSys Engineer at <책 평점 예측모델 개발>](https://github.com/boostcampaitech7/level2-competitiveds-recsys-08)**
+- **[RecSys Engineer at <영화 추천시스템 개발>](https://github.com/boostcampaitech7/level2-recsys-movierecommendation-recsys-02-lv3)**
+- **[RecSys Engineer at <책 평점 예측모델 개발>](https://github.com/boostcampaitech7/level2-bookratingprediction-recsys-08)**
 - **[ML Modeler at <비트코인 상승/하락 시계열 분류 예측>](https://github.com/boostcampaitech7/level1-classificationinmachinelearning-recsys-08)**
 - **[ML Modeler at <수도권 아파트 전세가 예측 모델>](https://github.com/boostcampaitech7/level2-competitiveds-recsys-08)**
 - **ML Modeler at <서울특별시 행복주택 최적 입지 분석>**
