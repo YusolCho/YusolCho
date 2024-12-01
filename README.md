@@ -45,7 +45,7 @@ Wish to spread beneficial service through AI and ML!!🕊
 - **[통계 데이터 분석·활용대회 <서울특별시 행복주택 최적입지 선정>(2022.9)(장려상)](https://github.com/YusolCho/Certificates/blob/main/2022%E1%84%90%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A8%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8%E1%84%92%E1%85%AA%E1%86%AF%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%83%E1%85%A2%E1%84%92%E1%85%AC.png)**
 
 ## Others 💻
-- **(2023.06 ~ 2023.09) Machine Learning Lab 학부연구생**
+- **(2023.05 ~ 2023.09) Machine Learning Lab 학부연구생**
 - **(2024.03 ~ Present) 빅데이터 학회 B.a.f 임원**
 - **[(2022.07 ~ 2023.08) 빅데이터 학회 B.a.f 정회원](https://www.dgubaf.com/)**
 - **(2020.03 ~ 2025.02) Dongguk Univ. DataScience SW & Statistics(4.07/4.5)**
