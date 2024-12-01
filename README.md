@@ -30,8 +30,13 @@ Wish to spread beneficial service through AI and ML!!🕊
 - **Computer Vision Engineer at <노인 인지기능 향상을 위한 멀티모달 양방향 드로잉 챗봇>**
 
 ### sub
-- **ML Engineer at <서울특별시 행복주택 최적 입지 분석>**
-- **ML Engineer at <League-of-Legends 챔피언 유형별 승패 요인 분석>**
+- **ML Modeler at <서울특별시 행복주택 최적 입지 분석>**
+- **ML Modeler at <League-of-Legends 챔피언 유형별 승패 요인 분석>**
+- **ML Modeler at <비트코인 상승/하락 시계열 분류 예측>**
+- **ML Modeler at <수도권 아파트 전세가 예측 모델>**
+- **RecSys Engineer at <Book Rating Prediction>**
+- **RecSys Engineer at <Movie Recommendation>**
+
 
 ## Awards 🏆
 - **[여름 SW 캡스톤디자인 <GPT 기반 콘텐츠 자동 발행 파이프라인>(2024.06)(최우수상)](https://github.com/YusolCho/Certificates/blob/main/2024%E1%84%8B%E1%85%A7%E1%84%85%E1%85%B3%E1%86%B7SW%E1%84%8F%E1%85%A2%E1%86%B8%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%86%AB%E1%84%83%E1%85%B5%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB.png)**
