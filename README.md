@@ -52,9 +52,6 @@ Wish to spread beneficial service through AI and ML!!🕊
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Contact 📞 </h2> <br> 
 <div style="text-align: left;"> 
-    <a href="https://confused-barometer-6bd.notion.site/_yusol-e15d11ed88dc494cbf8e9f6358d63621">
-        <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://confused-barometer-6bd.notion.site/_yusol-e15d11ed88dc494cbf8e9f6358d63621">
-    </a>
     <a href="mailto:yusol2001@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yusol2001@gmail.com">
     </a>
