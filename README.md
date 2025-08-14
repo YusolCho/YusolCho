@@ -21,7 +21,7 @@ Hi👋 This is Yusol Cho from South Korea 🇰🇷.
 </p>
 
 I majored in Data Science Software<br>
-Wish to spread beneficial service through AI and ML!!🕊
+Wish to spread beneficial service through AI
 
 ## Projects 💡
 ### main
